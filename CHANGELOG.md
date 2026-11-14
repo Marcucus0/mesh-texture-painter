@@ -2,7 +2,7 @@
 
 ## 1.0
 
-- Release packaged as Mesh Texture Painter 1.0, authored by Rhacode.
+- Release packaged as Mesh Texture Painter 1.0, authored by Marcucus0.
 
 - Remove the demo scene and assets; generate isolated fixtures only when running tests.
 

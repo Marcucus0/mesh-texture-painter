@@ -2,7 +2,7 @@
 
 Paint PBR texture layers directly onto ordinary `MeshInstance3D` surfaces in the Godot 3D editor. The original mesh and materials are preserved, and paint remains editable after saving and reopening the scene.
 
-**Version 1.0 · By Rhacode · Godot 4.7.x · Tested with Godot 4.7.2**
+**Version 1.0 · By Marcucus0 · Godot 4.7.x · Tested with Godot 4.7.2**
 
 [Français — README en français](README.fr.md) · [Architecture](docs/ARCHITECTURE.md) · [Changelog](CHANGELOG.md) · [Development and tests](docs/DEVELOPMENT.md)
 

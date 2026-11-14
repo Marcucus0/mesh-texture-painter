@@ -1,6 +1,6 @@
 # Mesh Texture Painter 1.0
 
-By **Rhacode**.
+By **Marcucus0**.
 
 [Français — README en français](README.fr.md)
 

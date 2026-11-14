@@ -1,6 +1,6 @@
 # Mesh Texture Painter — Guide français
 
-**Version 1.0 · Par Rhacode**
+**Version 1.0 · Par Marcucus0**
 
 [English README](README.md)
 
