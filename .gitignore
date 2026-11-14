@@ -1,0 +1,21 @@
+# Godot-generated project data. Keep .gd.uid and asset .import sidecars.
+.godot/
+
+# Local fixtures, diagnostics and generated releases.
+/tests/output/
+/dist/
+*.log
+*.dmp
+*.tmp
+
+# Local editor / OS files.
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local credentials and environment files.
+.env
+.env.*
+!.env.example
+export_credentials.cfg
